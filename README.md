@@ -1,13 +1,13 @@
-📊 Amazon Prime Video – Exploratory Data Analysis (EDA)
-📌 Project Name
+Amazon Prime Video – Exploratory Data Analysis (EDA)
+Project Name
 
 Amazon Prime Video: Exploratory Data Analysis (EDA)
 
-👩‍💻 Contributor
+Contributor
 
 Sneha M N (Individual Project)
 
-📁 Project Type
+Project Type
 
 Exploratory Data Analysis (EDA)
 
@@ -17,7 +17,7 @@ This project focuses on performing Exploratory Data Analysis (EDA) on the Amazon
 
 The goal is to extract meaningful insights that help understand content trends, audience preferences, and factors influencing content success.
 
-🎯 Objective
+Objective
 
 The main objective of this project is to:
 
@@ -25,7 +25,8 @@ Analyze Amazon Prime Video content data
 Identify patterns and trends in movies and TV shows
 Understand relationships between ratings, votes, genres, and popularity
 Extract actionable insights for business decision-making
-📂 Dataset Information
+
+Dataset Information
 
 The project uses two datasets:
 
@@ -48,7 +49,7 @@ id (linking key)
 name
 character
 role (Actor / Director)
-🧹 Data Preprocessing & Cleaning
+Data Preprocessing & Cleaning
 Removed duplicate records
 Handled missing values using:
 Median imputation for ratings
@@ -57,7 +58,7 @@ Dropping irrelevant columns (e.g., imdb_id)
 Converted data types for analysis
 Merged datasets using id
 Exploded nested columns like genres and production_countries
-📊 Exploratory Data Analysis (EDA)
+ Exploratory Data Analysis (EDA)
 🔹 Univariate Analysis
 Content type distribution (Movies vs TV Shows)
 Release year trends
@@ -109,4 +110,4 @@ This project successfully transforms raw Amazon Prime Video data into meaningful
 
 🔗 GitHub Repository
 
-[Add your GitHub link here]
+https://github.com/Snehamn24/Amazon-Prime-Video-EDA-and-Machine-Learning-Analysis.git
